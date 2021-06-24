@@ -5,7 +5,7 @@ Rencana Agung 2021
   * versi 4
   * versi 5
  > PHP
- > CodeIgneter
+  * versi 5
  > Laravel
  > Python
  > Javascript
