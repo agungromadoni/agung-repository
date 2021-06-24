@@ -9,6 +9,7 @@ Rencana Agung 2021
  > Laravel
  > Python
  > Javascript
+  * React
 - bekerja dibidang yg diinginkan
  > bekerja dibidang IT
 Membahagiakan ortu
