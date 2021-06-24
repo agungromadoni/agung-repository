@@ -3,10 +3,12 @@ Rencana Agung 2021
  > HTML & CSS
  > Bootstrap
  > PHP
- > CodeIgneter
+  * versi 5
  > Laravel
  > Python
  > Javascript
+  * Angular
+  * React
 - bekerja dibidang yg diinginkan
  > bekerja dibidang IT
 Membahagiakan ortu
