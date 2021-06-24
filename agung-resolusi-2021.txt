@@ -2,11 +2,14 @@ Rencana Agung 2021
 - bisa bahasa pemrograman :
  > HTML & CSS
  > Bootstrap
+  * versi 4
+  * versi 5
  > PHP
  > CodeIgneter
  > Laravel
  > Python
  > Javascript
+  * React
 - bekerja dibidang yg diinginkan
  > bekerja dibidang IT
 Membahagiakan ortu
